@@ -39,6 +39,10 @@ This project is designed to be completed in the following steps:
     Make sure to run all the code cells in the ```EDA.ipynb``` notebook and ensure they produce output before committing and pushing your changes.
 
 5. **About the project**: The data consists of grayscale images of faces, each measuring 48x48 pixels. The faces have been automatically aligned to be roughly centered and occupy a similar area within each image. The task is to categorize each face based on the emotion expressed, assigning it to one of seven categories (0=Angry, 1=Disgust, 2=Fear, 3=Happy, 4=Sad, 5=Surprise, 6=Neutral). The dataset contains a total of 35,887 examples. This project aims to classify facial expressions from pixel images by applying machine learning models. The goal is to develop a system that can accurately recognize and classify expressions such as happiness, sadness, anger, surprise, and fear.
-
+6. **System requirements**:
+   1. Python 3.12.3
+   2. Matplotlib: Pyplot
+   3. Sklearn: decomposition, preprocessing, model_selection, preprocessing, linear_model, ensemble, svm, metrics
+   4. Tensorflow.keras: models, layers, utils
 
 Feel free to modify and extend the notebook to explore further aspects of the data and experiment with different algorithms. Good luck.
