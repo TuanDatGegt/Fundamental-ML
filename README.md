@@ -7,9 +7,9 @@ This repository contains the code and data for a mini-project on facial expressi
 
     |No.| Student Name    | Student ID |
     | --------| -------- | ------- |
-    |1|Nguyễn Đăng Khôi||
-    |2|Nguyễn Doãn Đồng||
-    |3|Nguyễn Thành Trung||
+    |1|Nguyễn Đăng Khôi|21280023|
+    |2|Nguyễn Doãn Đồng|21280089|
+    |3|Nguyễn Thành Trung|21280055|
     |4|Trần Tuấn Đạt|21280079|
 
 - The submission deadline is strict: **11:59 PM** on **June 22nd, 2024**. Commits pushed after this deadline will not be considered.
@@ -38,7 +38,7 @@ This project is designed to be completed in the following steps:
 
     Make sure to run all the code cells in the ```EDA.ipynb``` notebook and ensure they produce output before committing and pushing your changes.
 
-5. **About the project**: The data consists of grayscale images of faces, each measuring 48x48 pixels. The faces have been automatically aligned to be roughly centered and occupy a similar area within each image. The task is to categorize each face based on the emotion expressed, assigning it to one of seven categories (0=Angry, 1=Disgust, 2=Fear, 3=Happy, 4=Sad, 5=Surprise, 6=Neutral). The dataset contains a total of 35,887 examples.
+5. **About the project**: The data consists of grayscale images of faces, each measuring 48x48 pixels. The faces have been automatically aligned to be roughly centered and occupy a similar area within each image. The task is to categorize each face based on the emotion expressed, assigning it to one of seven categories (0=Angry, 1=Disgust, 2=Fear, 3=Happy, 4=Sad, 5=Surprise, 6=Neutral). The dataset contains a total of 35,887 examples. This project aims to classify facial expressions from pixel images by applying machine learning models. The goal is to develop a system that can accurately recognize and classify expressions such as happiness, sadness, anger, surprise, and fear.
 
 
 Feel free to modify and extend the notebook to explore further aspects of the data and experiment with different algorithms. Good luck.
